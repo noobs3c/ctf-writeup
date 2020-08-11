@@ -7,7 +7,7 @@
 
 
 
-## Solution
+## Solution:
 
 The link gives us an EWF file.
 ```console
